@@ -76,9 +76,7 @@ Read the input image in color mode.
 # IMAGE TRANSFORMATIONS 
 
 **Name:** NATARAJ KUMARAN S   **Reg. No:** 212223230137
-
-
----
+```
 
 ##  Output
 
